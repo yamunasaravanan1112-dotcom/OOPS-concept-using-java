@@ -1,0 +1,6 @@
+Student Record
+-------------------------
+Roll No : 101
+Name : Rahul
+Course : B.Tech Information Technology
+CGPA : 8.75
